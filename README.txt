@@ -1,4 +1,4 @@
-Please install Python 3.7.6
+Please install Python 3.7.6.
 
 The main run file is run_investment_calculator.py.
 
